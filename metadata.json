@@ -1,0 +1,5 @@
+{
+  "name": "Infi RAG - vibecoded",
+  "description": "An interactive web application to upload, validate, and analyze vector store JSON files. It provides a comprehensive summary including total chunks, unique sources, text length, and a preview of the data chunks.",
+  "requestFramePermissions": []
+}
